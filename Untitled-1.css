@@ -1,0 +1,21 @@
+/* 1px
+
+1rem -> font-size html
+
+1em -> font-size del elemento padre
+
+
+html {
+    font-size: 16px;
+}
+
+1rem = 16px
+
+2rem = 32px
+
+div style font-size: 16px;
+    div style font-size: 1em;
+        div style font-size: 1em;
+
+
+1em = 20px */
